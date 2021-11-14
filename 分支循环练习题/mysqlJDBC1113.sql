@@ -1,0 +1,2 @@
+SELECT NAME,SUM FROM student
+
